@@ -1,6 +1,6 @@
 # Zombie Killer
 
-Prosta gra survival shooter 2D napisana w Pythonie z użyciem Pygame Zero.
+Prosta gra 2D napisana w Pythonie z użyciem Pygame Zero.
 Gracz steruje zombie killerem, strzela do zombie i przechodzi kolejne poziomy.
 
 ## Funkcje
@@ -21,7 +21,7 @@ Gracz steruje zombie killerem, strzela do zombie i przechodzi kolejne poziomy.
 
 | Klawisz / działanie | Funkcja |
 | --- | --- |
-| `W`, `A`, `S`, `D` lub strzałki | Ruch gracza |
+| `strzałki | Ruch gracza |
 | `SPACJA` | Strzał w kierunku ostatniego ruchu |
 | `ESC` | Zamknięcie gry |
 | Przycisk `START` | Rozpoczęcie lub zresetowanie gry |
